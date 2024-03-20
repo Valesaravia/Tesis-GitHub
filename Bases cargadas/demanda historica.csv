@@ -1,0 +1,1137 @@
+ANO;MES;CATEGORIA AREA;CATEGORIA DEMANDA;TARIFA;CATEGORIA TARIFA;DEMANDA [MWh]
+2012;1/1/2012;Cordoba;Distribuidor;Alumbrado Publico;Residencial;24181,10
+2012;1/1/2012;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;106995,70
+2012;1/1/2012;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;29207,40
+2012;1/1/2012;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;73474,50
+2012;1/1/2012;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;24785,90
+2012;1/1/2012;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;19292,20
+2012;1/1/2012;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;5990,40
+2012;1/1/2012;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;286465,20
+2012;1/1/2012;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;154663,20
+2012;1/1/2012;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;32013,10
+2012;1/2/2012;Cordoba;Distribuidor;Alumbrado Publico;Residencial;25521,30
+2012;1/2/2012;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;108039,20
+2012;1/2/2012;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;31791,60
+2012;1/2/2012;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;71299,60
+2012;1/2/2012;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;23218,20
+2012;1/2/2012;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;19427,50
+2012;1/2/2012;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;6464,10
+2012;1/2/2012;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;237280,50
+2012;1/2/2012;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;139717,90
+2012;1/2/2012;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;30950,50
+2012;1/3/2012;Cordoba;Distribuidor;Alumbrado Publico;Residencial;26262,10
+2012;1/3/2012;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;118472,30
+2012;1/3/2012;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;28854,00
+2012;1/3/2012;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;71735,30
+2012;1/3/2012;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;21129,60
+2012;1/3/2012;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;16188,40
+2012;1/3/2012;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;4850,30
+2012;1/3/2012;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;244444,60
+2012;1/3/2012;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;136586,50
+2012;1/3/2012;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;33900,50
+2012;1/4/2012;Cordoba;Distribuidor;Alumbrado Publico;Residencial;29265,40
+2012;1/4/2012;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;107215,30
+2012;1/4/2012;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;26995,20
+2012;1/4/2012;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;71114,70
+2012;1/4/2012;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;12806,40
+2012;1/4/2012;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;10347,10
+2012;1/4/2012;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;4714,30
+2012;1/4/2012;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;215205,50
+2012;1/4/2012;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;126512,20
+2012;1/4/2012;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;27879,90
+2012;1/5/2012;Cordoba;Distribuidor;Alumbrado Publico;Residencial;31776,00
+2012;1/5/2012;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;106913,40
+2012;1/5/2012;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;22517,80
+2012;1/5/2012;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;67158,40
+2012;1/5/2012;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;12155,60
+2012;1/5/2012;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;8938,10
+2012;1/5/2012;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;2756,20
+2012;1/5/2012;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;254529,70
+2012;1/5/2012;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;125514,80
+2012;1/5/2012;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;35708,00
+2012;1/6/2012;Cordoba;Distribuidor;Alumbrado Publico;Residencial;33793,50
+2012;1/6/2012;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;105753,10
+2012;1/6/2012;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;23506,30
+2012;1/6/2012;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;71299,70
+2012;1/6/2012;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;16140,90
+2012;1/6/2012;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;12979,30
+2012;1/6/2012;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;5232,80
+2012;1/6/2012;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;278234,30
+2012;1/6/2012;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;130082,30
+2012;1/6/2012;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;34027,90
+2012;1/7/2012;Cordoba;Distribuidor;Alumbrado Publico;Residencial;34273,50
+2012;1/7/2012;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;107461,90
+2012;1/7/2012;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;23215,90
+2012;1/7/2012;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;71086,40
+2012;1/7/2012;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;23181,00
+2012;1/7/2012;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;20728,90
+2012;1/7/2012;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;5992,50
+2012;1/7/2012;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;320089,10
+2012;1/7/2012;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;132389,50
+2012;1/7/2012;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;36213,40
+2012;1/8/2012;Cordoba;Distribuidor;Alumbrado Publico;Residencial;33440,80
+2012;1/8/2012;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;112082,30
+2012;1/8/2012;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;23427,90
+2012;1/8/2012;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;71661,00
+2012;1/8/2012;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;23339,20
+2012;1/8/2012;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;21177,70
+2012;1/8/2012;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;7117,30
+2012;1/8/2012;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;251659,50
+2012;1/8/2012;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;134785,60
+2012;1/8/2012;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;35800,30
+2012;1/9/2012;Cordoba;Distribuidor;Alumbrado Publico;Residencial;31689,00
+2012;1/9/2012;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;107450,40
+2012;1/9/2012;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;20893,30
+2012;1/9/2012;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;66400,30
+2012;1/9/2012;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;16368,50
+2012;1/9/2012;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;12838,10
+2012;1/9/2012;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;3449,00
+2012;1/9/2012;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;214370,80
+2012;1/9/2012;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;121605,20
+2012;1/9/2012;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;33644,20
+2012;1/10/2012;Cordoba;Distribuidor;Alumbrado Publico;Residencial;30226,80
+2012;1/10/2012;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;114788,60
+2012;1/10/2012;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;21886,40
+2012;1/10/2012;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;68908,50
+2012;1/10/2012;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;11457,50
+2012;1/10/2012;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;8928,40
+2012;1/10/2012;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;4027,20
+2012;1/10/2012;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;229003,00
+2012;1/10/2012;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;129909,60
+2012;1/10/2012;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;36692,70
+2012;1/11/2012;Cordoba;Distribuidor;Alumbrado Publico;Residencial;22749,00
+2012;1/11/2012;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;115804,90
+2012;1/11/2012;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;23479,00
+2012;1/11/2012;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;68043,10
+2012;1/11/2012;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;11397,60
+2012;1/11/2012;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;8820,30
+2012;1/11/2012;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;2819,20
+2012;1/11/2012;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;262727,70
+2012;1/11/2012;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;137948,80
+2012;1/11/2012;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;39220,60
+2012;1/12/2012;Cordoba;Distribuidor;Alumbrado Publico;Residencial;25476,60
+2012;1/12/2012;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;112529,00
+2012;1/12/2012;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;29952,90
+2012;1/12/2012;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;76751,30
+2012;1/12/2012;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;15598,10
+2012;1/12/2012;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;12866,50
+2012;1/12/2012;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;5301,50
+2012;1/12/2012;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;284931,60
+2012;1/12/2012;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;142341,60
+2012;1/12/2012;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;35024,90
+2013;1/1/2013;Cordoba;Distribuidor;Alumbrado Publico;Residencial;24793,80
+2013;1/1/2013;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;111317,60
+2013;1/1/2013;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;31479,30
+2013;1/1/2013;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;77690,20
+2013;1/1/2013;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;24841,20
+2013;1/1/2013;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;19025,70
+2013;1/1/2013;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;5923,30
+2013;1/1/2013;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;292671,50
+2013;1/1/2013;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;151061,30
+2013;1/1/2013;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;34531,80
+2013;1/2/2013;Cordoba;Distribuidor;Alumbrado Publico;Residencial;26502,80
+2013;1/2/2013;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;102309,30
+2013;1/2/2013;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;30537,90
+2013;1/2/2013;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;69607,50
+2013;1/2/2013;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;23235,80
+2013;1/2/2013;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;18453,70
+2013;1/2/2013;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;6191,90
+2013;1/2/2013;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;223907,30
+2013;1/2/2013;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;130374,20
+2013;1/2/2013;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;33740,40
+2013;1/3/2013;Cordoba;Distribuidor;Alumbrado Publico;Residencial;26962,70
+2013;1/3/2013;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;112436,60
+2013;1/3/2013;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;27626,80
+2013;1/3/2013;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;70535,90
+2013;1/3/2013;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;18334,90
+2013;1/3/2013;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;13741,20
+2013;1/3/2013;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;4153,70
+2013;1/3/2013;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;236384,00
+2013;1/3/2013;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;133995,10
+2013;1/3/2013;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;37895,80
+2013;1/4/2013;Cordoba;Distribuidor;Alumbrado Publico;Residencial;33396,20
+2013;1/4/2013;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;109328,30
+2013;1/4/2013;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;25212,30
+2013;1/4/2013;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;69560,90
+2013;1/4/2013;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;11387,30
+2013;1/4/2013;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;9231,30
+2013;1/4/2013;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;4405,60
+2013;1/4/2013;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;210519,40
+2013;1/4/2013;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;132910,60
+2013;1/4/2013;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;36249,90
+2013;1/5/2013;Cordoba;Distribuidor;Alumbrado Publico;Residencial;32411,10
+2013;1/5/2013;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;125923,40
+2013;1/5/2013;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;23624,60
+2013;1/5/2013;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;70594,70
+2013;1/5/2013;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;12028,70
+2013;1/5/2013;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;8838,30
+2013;1/5/2013;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;3000,30
+2013;1/5/2013;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;273219,90
+2013;1/5/2013;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;132473,00
+2013;1/5/2013;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;28586,40
+2013;1/6/2013;Cordoba;Distribuidor;Alumbrado Publico;Residencial;34274,10
+2013;1/6/2013;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;118175,60
+2013;1/6/2013;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;24422,60
+2013;1/6/2013;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;71821,30
+2013;1/6/2013;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;15997,40
+2013;1/6/2013;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;12974,90
+2013;1/6/2013;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;5467,00
+2013;1/6/2013;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;287419,90
+2013;1/6/2013;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;130091,30
+2013;1/6/2013;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;25715,10
+2013;1/7/2013;Cordoba;Distribuidor;Alumbrado Publico;Residencial;33627,80
+2013;1/7/2013;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;123677,60
+2013;1/7/2013;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;23986,10
+2013;1/7/2013;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;73053,30
+2013;1/7/2013;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;23847,80
+2013;1/7/2013;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;21108,00
+2013;1/7/2013;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;5839,00
+2013;1/7/2013;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;324316,60
+2013;1/7/2013;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;138766,90
+2013;1/7/2013;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;27389,20
+2013;1/8/2013;Cordoba;Distribuidor;Alumbrado Publico;Residencial;34190,90
+2013;1/8/2013;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;125500,40
+2013;1/8/2013;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;25511,30
+2013;1/8/2013;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;74550,90
+2013;1/8/2013;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;25909,10
+2013;1/8/2013;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;22882,20
+2013;1/8/2013;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;7580,10
+2013;1/8/2013;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;278000,60
+2013;1/8/2013;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;142297,50
+2013;1/8/2013;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;26448,80
+2013;1/9/2013;Cordoba;Distribuidor;Alumbrado Publico;Residencial;29654,30
+2013;1/9/2013;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;123617,60
+2013;1/9/2013;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;22760,70
+2013;1/9/2013;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;69840,50
+2013;1/9/2013;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;20499,10
+2013;1/9/2013;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;16084,40
+2013;1/9/2013;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;4191,50
+2013;1/9/2013;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;251240,10
+2013;1/9/2013;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;138564,10
+2013;1/9/2013;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;26489,60
+2013;1/10/2013;Cordoba;Distribuidor;Alumbrado Publico;Residencial;30458,70
+2013;1/10/2013;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;132822,10
+2013;1/10/2013;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;24555,40
+2013;1/10/2013;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;73872,90
+2013;1/10/2013;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;14858,70
+2013;1/10/2013;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;11528,30
+2013;1/10/2013;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;4825,50
+2013;1/10/2013;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;231893,10
+2013;1/10/2013;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;152149,50
+2013;1/10/2013;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;29336,90
+2013;1/11/2013;Cordoba;Distribuidor;Alumbrado Publico;Residencial;25746,30
+2013;1/11/2013;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;131731,40
+2013;1/11/2013;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;25395,10
+2013;1/11/2013;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;71786,30
+2013;1/11/2013;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;13057,90
+2013;1/11/2013;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;10190,60
+2013;1/11/2013;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;3299,80
+2013;1/11/2013;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;241783,10
+2013;1/11/2013;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;138568,10
+2013;1/11/2013;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;16833,80
+2013;1/12/2013;Cordoba;Distribuidor;Alumbrado Publico;Residencial;26418,90
+2013;1/12/2013;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;130477,80
+2013;1/12/2013;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;33507,10
+2013;1/12/2013;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;85364,50
+2013;1/12/2013;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;20791,00
+2013;1/12/2013;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;16932,00
+2013;1/12/2013;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;6913,80
+2013;1/12/2013;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;343688,10
+2013;1/12/2013;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;156955,60
+2013;1/12/2013;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;16636,70
+2014;1/1/2014;Cordoba;Distribuidor;Alumbrado Publico;Residencial;25940,00
+2014;1/1/2014;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;140017,40
+2014;1/1/2014;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;36557,60
+2014;1/1/2014;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;80152,20
+2014;1/1/2014;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;42246,90
+2014;1/1/2014;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;34353,60
+2014;1/1/2014;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;9065,40
+2014;1/1/2014;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;300382,30
+2014;1/1/2014;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;165794,20
+2014;1/1/2014;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;16870,30
+2014;1/2/2014;Cordoba;Distribuidor;Alumbrado Publico;Residencial;23589,60
+2014;1/2/2014;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;127474,10
+2014;1/2/2014;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;32640,30
+2014;1/2/2014;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;67730,70
+2014;1/2/2014;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;30017,00
+2014;1/2/2014;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;24199,80
+2014;1/2/2014;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;7381,80
+2014;1/2/2014;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;223859,10
+2014;1/2/2014;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;124765,80
+2014;1/2/2014;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8934,30
+2014;1/3/2014;Cordoba;Distribuidor;Alumbrado Publico;Residencial;28916,10
+2014;1/3/2014;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;130440,20
+2014;1/3/2014;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;26768,30
+2014;1/3/2014;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;71200,90
+2014;1/3/2014;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;16899,90
+2014;1/3/2014;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;12415,50
+2014;1/3/2014;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;3736,40
+2014;1/3/2014;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;225182,00
+2014;1/3/2014;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;129015,80
+2014;1/3/2014;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9319,70
+2014;1/4/2014;Cordoba;Distribuidor;Alumbrado Publico;Residencial;32718,70
+2014;1/4/2014;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;135380,00
+2014;1/4/2014;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;24009,50
+2014;1/4/2014;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;69027,60
+2014;1/4/2014;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;11864,40
+2014;1/4/2014;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;9173,60
+2014;1/4/2014;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;4837,90
+2014;1/4/2014;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;228349,90
+2014;1/4/2014;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;128105,40
+2014;1/4/2014;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8731,80
+2014;1/5/2014;Cordoba;Distribuidor;Alumbrado Publico;Residencial;32070,50
+2014;1/5/2014;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;142421,30
+2014;1/5/2014;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;24541,00
+2014;1/5/2014;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;70550,40
+2014;1/5/2014;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;14254,80
+2014;1/5/2014;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;9985,00
+2014;1/5/2014;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;3044,60
+2014;1/5/2014;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;280336,00
+2014;1/5/2014;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;131694,90
+2014;1/5/2014;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8539,10
+2014;1/6/2014;Cordoba;Distribuidor;Alumbrado Publico;Residencial;35303,10
+2014;1/6/2014;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;142479,90
+2014;1/6/2014;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;24313,50
+2014;1/6/2014;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;74559,60
+2014;1/6/2014;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;19760,80
+2014;1/6/2014;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;15794,30
+2014;1/6/2014;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;7264,40
+2014;1/6/2014;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;304421,40
+2014;1/6/2014;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;134277,60
+2014;1/6/2014;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8378,90
+2014;1/7/2014;Cordoba;Distribuidor;Alumbrado Publico;Residencial;34386,90
+2014;1/7/2014;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;143956,60
+2014;1/7/2014;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;25204,40
+2014;1/7/2014;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;73337,80
+2014;1/7/2014;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;25183,30
+2014;1/7/2014;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;21298,10
+2014;1/7/2014;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;5719,40
+2014;1/7/2014;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;318001,10
+2014;1/7/2014;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;141979,10
+2014;1/7/2014;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8624,40
+2014;1/8/2014;Cordoba;Distribuidor;Alumbrado Publico;Residencial;34849,00
+2014;1/8/2014;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;141434,50
+2014;1/8/2014;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;25392,20
+2014;1/8/2014;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;74173,10
+2014;1/8/2014;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;22842,80
+2014;1/8/2014;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;19326,70
+2014;1/8/2014;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;6642,90
+2014;1/8/2014;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;254663,50
+2014;1/8/2014;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;145807,30
+2014;1/8/2014;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8920,40
+2014;1/9/2014;Cordoba;Distribuidor;Alumbrado Publico;Residencial;30405,60
+2014;1/9/2014;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;142514,20
+2014;1/9/2014;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;22818,20
+2014;1/9/2014;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;63419,30
+2014;1/9/2014;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;16531,00
+2014;1/9/2014;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;12238,90
+2014;1/9/2014;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;3514,20
+2014;1/9/2014;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;240537,80
+2014;1/9/2014;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;133531,20
+2014;1/9/2014;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8827,60
+2014;1/10/2014;Cordoba;Distribuidor;Alumbrado Publico;Residencial;31030,40
+2014;1/10/2014;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;155860,50
+2014;1/10/2014;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;25377,10
+2014;1/10/2014;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;76537,90
+2014;1/10/2014;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;13093,20
+2014;1/10/2014;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;10220,10
+2014;1/10/2014;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;4911,90
+2014;1/10/2014;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;272687,30
+2014;1/10/2014;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;150321,70
+2014;1/10/2014;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9917,00
+2014;1/11/2014;Cordoba;Distribuidor;Alumbrado Publico;Residencial;25795,00
+2014;1/11/2014;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;143947,30
+2014;1/11/2014;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;26696,40
+2014;1/11/2014;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;71100,40
+2014;1/11/2014;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;14402,40
+2014;1/11/2014;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;10828,20
+2014;1/11/2014;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;3765,60
+2014;1/11/2014;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;261915,00
+2014;1/11/2014;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;143141,80
+2014;1/11/2014;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9770,60
+2014;1/12/2014;Cordoba;Distribuidor;Alumbrado Publico;Residencial;27800,50
+2014;1/12/2014;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;138899,30
+2014;1/12/2014;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;31434,60
+2014;1/12/2014;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;78701,60
+2014;1/12/2014;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;17928,70
+2014;1/12/2014;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;14015,00
+2014;1/12/2014;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;5981,90
+2014;1/12/2014;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;285153,70
+2014;1/12/2014;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;154313,60
+2014;1/12/2014;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;10102,70
+2015;1/1/2015;Cordoba;Distribuidor;Alumbrado Publico;Residencial;25662,10
+2015;1/1/2015;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;137536,00
+2015;1/1/2015;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;32811,70
+2015;1/1/2015;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;80036,60
+2015;1/1/2015;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;28454,90
+2015;1/1/2015;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;21393,10
+2015;1/1/2015;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;6729,70
+2015;1/1/2015;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;328253,30
+2015;1/1/2015;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;151588,30
+2015;1/1/2015;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;10402,20
+2015;1/2/2015;Cordoba;Distribuidor;Alumbrado Publico;Residencial;27387,00
+2015;1/2/2015;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;136864,30
+2015;1/2/2015;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;33804,70
+2015;1/2/2015;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;76161,80
+2015;1/2/2015;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;24552,40
+2015;1/2/2015;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;20894,90
+2015;1/2/2015;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;7134,90
+2015;1/2/2015;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;223128,80
+2015;1/2/2015;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;140112,10
+2015;1/2/2015;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9129,80
+2015;1/3/2015;Cordoba;Distribuidor;Alumbrado Publico;Residencial;28709,80
+2015;1/3/2015;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;150181,20
+2015;1/3/2015;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;30979,10
+2015;1/3/2015;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;75148,50
+2015;1/3/2015;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;23306,60
+2015;1/3/2015;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;16587,80
+2015;1/3/2015;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;5036,30
+2015;1/3/2015;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;295883,80
+2015;1/3/2015;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;145739,70
+2015;1/3/2015;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;10361,50
+2015;1/4/2015;Cordoba;Distribuidor;Alumbrado Publico;Residencial;33940,90
+2015;1/4/2015;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;145711,60
+2015;1/4/2015;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;29268,10
+2015;1/4/2015;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;75578,80
+2015;1/4/2015;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;15330,30
+2015;1/4/2015;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;12899,80
+2015;1/4/2015;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;5544,90
+2015;1/4/2015;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;220241,70
+2015;1/4/2015;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;139563,80
+2015;1/4/2015;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9347,80
+2015;1/5/2015;Cordoba;Distribuidor;Alumbrado Publico;Residencial;32904,90
+2015;1/5/2015;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;144768,00
+2015;1/5/2015;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;26598,50
+2015;1/5/2015;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;73980,20
+2015;1/5/2015;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;15152,50
+2015;1/5/2015;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;10875,70
+2015;1/5/2015;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;3613,10
+2015;1/5/2015;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;265541,90
+2015;1/5/2015;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;134445,40
+2015;1/5/2015;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8432,10
+2015;1/6/2015;Cordoba;Distribuidor;Alumbrado Publico;Residencial;37553,10
+2015;1/6/2015;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;148008,00
+2015;1/6/2015;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;26691,50
+2015;1/6/2015;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;75602,60
+2015;1/6/2015;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;20025,90
+2015;1/6/2015;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;15140,70
+2015;1/6/2015;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;6187,10
+2015;1/6/2015;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;300422,20
+2015;1/6/2015;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;143718,80
+2015;1/6/2015;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7958,90
+2015;1/7/2015;Cordoba;Distribuidor;Alumbrado Publico;Residencial;36044,00
+2015;1/7/2015;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;146541,30
+2015;1/7/2015;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;26933,90
+2015;1/7/2015;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;76721,90
+2015;1/7/2015;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;28845,40
+2015;1/7/2015;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;24532,50
+2015;1/7/2015;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;6212,10
+2015;1/7/2015;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;338664,20
+2015;1/7/2015;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;146367,40
+2015;1/7/2015;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8627,90
+2015;1/8/2015;Cordoba;Distribuidor;Alumbrado Publico;Residencial;36545,10
+2015;1/8/2015;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;144037,40
+2015;1/8/2015;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;26383,70
+2015;1/8/2015;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;76538,30
+2015;1/8/2015;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;27207,20
+2015;1/8/2015;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;23032,00
+2015;1/8/2015;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;7787,20
+2015;1/8/2015;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;275459,00
+2015;1/8/2015;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;142546,20
+2015;1/8/2015;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8560,30
+2015;1/9/2015;Cordoba;Distribuidor;Alumbrado Publico;Residencial;32263,10
+2015;1/9/2015;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;144907,90
+2015;1/9/2015;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;23982,60
+2015;1/9/2015;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;70083,70
+2015;1/9/2015;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;19054,90
+2015;1/9/2015;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;14209,20
+2015;1/9/2015;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;4161,70
+2015;1/9/2015;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;250999,00
+2015;1/9/2015;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;143459,70
+2015;1/9/2015;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8415,30
+2015;1/10/2015;Cordoba;Distribuidor;Alumbrado Publico;Residencial;32205,80
+2015;1/10/2015;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;143812,50
+2015;1/10/2015;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;25829,50
+2015;1/10/2015;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;74540,80
+2015;1/10/2015;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;15333,90
+2015;1/10/2015;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;11613,00
+2015;1/10/2015;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;5144,30
+2015;1/10/2015;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;260401,60
+2015;1/10/2015;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;141232,60
+2015;1/10/2015;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8802,00
+2015;1/11/2015;Cordoba;Distribuidor;Alumbrado Publico;Residencial;27572,00
+2015;1/11/2015;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;140735,50
+2015;1/11/2015;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;24934,30
+2015;1/11/2015;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;69663,40
+2015;1/11/2015;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;14122,40
+2015;1/11/2015;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;10435,60
+2015;1/11/2015;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;3334,40
+2015;1/11/2015;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;258737,90
+2015;1/11/2015;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;138398,70
+2015;1/11/2015;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9226,10
+2015;1/12/2015;Cordoba;Distribuidor;Alumbrado Publico;Residencial;30580,80
+2015;1/12/2015;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;140024,60
+2015;1/12/2015;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;34009,20
+2015;1/12/2015;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;84830,60
+2015;1/12/2015;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;19358,30
+2015;1/12/2015;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;15159,80
+2015;1/12/2015;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;6484,90
+2015;1/12/2015;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;310402,70
+2015;1/12/2015;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Industrial/Comercial Grande;167234,80
+2015;1/12/2015;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9967,40
+2016;1/1/2016;Cordoba;Distribuidor;Alumbrado Publico;Comercial;26246,04
+2016;1/1/2016;Cordoba;Distribuidor;GRANDES USUARIOS C DEM MAYOR O IGUAL 300KW;Industrial/Comercial Grande;135341,85
+2016;1/1/2016;Cordoba;Distribuidor;MENOR 10KW NO RES. MAYOR O IGUAL 4000 KWH/BIM;Comercial;34706,66
+2016;1/1/2016;Cordoba;Distribuidor;MENOR 10KW NO RES. MENOR 4000 KWH BIM;Comercial;82083,06
+2016;1/1/2016;Cordoba;Distribuidor;RES. MAYOR 1000 Y MENOR O IGUAL 1400 KWH BIM;Residencial;33848,27
+2016;1/1/2016;Cordoba;Distribuidor;RES. MAYOR 1400 Y MENOR O IGUAL 2800 KWH BIM;Residencial;25539,72
+2016;1/1/2016;Cordoba;Distribuidor;RES. MAYOR 2800 KWH BIM;Residencial;7403,38
+2016;1/1/2016;Cordoba;Distribuidor;RES. MENOR O IGUAL 1000 KWH BIM;Residencial;341780,49
+2016;1/1/2016;Cordoba;Distribuidor;SANCIONADO DEM.MAYOR O IGUAL 10 Y MENOR300 KW;Comercial;160479,13
+2016;1/1/2016;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;10244,95
+2016;1/2/2016;Cordoba;Distribuidor;RESIDENCIAL;Residencial;236444,30
+2016;1/2/2016;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;303332,88
+2016;1/2/2016;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;139022,57
+2016;1/2/2016;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >=10 Y <=20%;Residencial;20550,51
+2016;1/2/2016;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;21830,39
+2016;1/2/2016;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;37913,41
+2016;1/2/2016;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE CON AHORRO;Residencial;10913,62
+2016;1/2/2016;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SIN AHORRO;Residencial;18446,34
+2016;1/2/2016;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9816,84
+2016;1/3/2016;Cordoba;Distribuidor;RESIDENCIAL;Residencial;147324,27
+2016;1/3/2016;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;280847,19
+2016;1/3/2016;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;145709,45
+2016;1/3/2016;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >=10 Y <=20%;Residencial;19846,08
+2016;1/3/2016;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;21007,53
+2016;1/3/2016;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;60146,89
+2016;1/3/2016;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE CON AHORRO;Residencial;23820,94
+2016;1/3/2016;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SIN AHORRO;Residencial;26061,21
+2016;1/3/2016;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9505,66
+2016;1/4/2016;Cordoba;Distribuidor;RESIDENCIAL;Residencial;141925,94
+2016;1/4/2016;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;279195,66
+2016;1/4/2016;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;136512,71
+2016;1/4/2016;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >=10 Y <=20%;Residencial;20946,20
+2016;1/4/2016;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;21779,80
+2016;1/4/2016;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;66411,56
+2016;1/4/2016;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE CON AHORRO;Residencial;22449,85
+2016;1/4/2016;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SIN AHORRO;Residencial;26756,58
+2016;1/4/2016;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8256,95
+2016;1/5/2016;Cordoba;Distribuidor;RESIDENCIAL;Residencial;171681,18
+2016;1/5/2016;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;296229,49
+2016;1/5/2016;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;136741,69
+2016;1/5/2016;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >=10 Y <=20%;Residencial;20261,52
+2016;1/5/2016;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;22107,16
+2016;1/5/2016;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;70530,57
+2016;1/5/2016;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE CON AHORRO;Residencial;23255,55
+2016;1/5/2016;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SIN AHORRO;Residencial;40487,99
+2016;1/5/2016;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7697,41
+2016;1/6/2016;Cordoba;Distribuidor;RESIDENCIAL;Residencial;206473,98
+2016;1/6/2016;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;313041,86
+2016;1/6/2016;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;135440,72
+2016;1/6/2016;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >=10 Y <=20%;Residencial;20905,99
+2016;1/6/2016;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;24282,59
+2016;1/6/2016;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;73514,20
+2016;1/6/2016;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE CON AHORRO;Residencial;20764,46
+2016;1/6/2016;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SIN AHORRO;Residencial;52926,61
+2016;1/6/2016;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7475,73
+2016;1/7/2016;Cordoba;Distribuidor;RESIDENCIAL;Residencial;205758,70
+2016;1/7/2016;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;305399,75
+2016;1/7/2016;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;136725,60
+2016;1/7/2016;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >=10 Y <=20%;Residencial;23835,27
+2016;1/7/2016;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;30374,44
+2016;1/7/2016;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;70328,18
+2016;1/7/2016;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE CON AHORRO;Residencial;28488,88
+2016;1/7/2016;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SIN AHORRO;Residencial;54008,72
+2016;1/7/2016;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7891,51
+2016;1/8/2016;Cordoba;Distribuidor;RESIDENCIAL;Residencial;143593,75
+2016;1/8/2016;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;287121,52
+2016;1/8/2016;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;137950,12
+2016;1/8/2016;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >=10 Y <=20%;Residencial;19925,59
+2016;1/8/2016;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;25535,93
+2016;1/8/2016;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;66202,36
+2016;1/8/2016;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE CON AHORRO;Residencial;25362,14
+2016;1/8/2016;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SIN AHORRO;Residencial;36331,55
+2016;1/8/2016;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7935,79
+2016;1/9/2016;Cordoba;Distribuidor;RESIDENCIAL;Residencial;130099,22
+2016;1/9/2016;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;279893,10
+2016;1/9/2016;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;136180,54
+2016;1/9/2016;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >=10 Y <=20%;Residencial;20861,89
+2016;1/9/2016;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;24417,69
+2016;1/9/2016;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;66691,42
+2016;1/9/2016;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE CON AHORRO;Residencial;20282,61
+2016;1/9/2016;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SIN AHORRO;Residencial;27200,94
+2016;1/9/2016;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8019,19
+2016;1/10/2016;Cordoba;Distribuidor;RESIDENCIAL;Residencial;120044,99
+2016;1/10/2016;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;272691,68
+2016;1/10/2016;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;128684,34
+2016;1/10/2016;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >=10 Y <=20%;Residencial;21195,65
+2016;1/10/2016;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;24329,41
+2016;1/10/2016;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;68822,06
+2016;1/10/2016;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE CON AHORRO;Residencial;19103,68
+2016;1/10/2016;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SIN AHORRO;Residencial;20618,54
+2016;1/10/2016;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8454,37
+2016;1/11/2016;Cordoba;Distribuidor;RESIDENCIAL;Residencial;121086,78
+2016;1/11/2016;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;281485,64
+2016;1/11/2016;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;139477,24
+2016;1/11/2016;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >=10 Y <=20%;Residencial;22169,04
+2016;1/11/2016;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;23784,84
+2016;1/11/2016;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;73699,70
+2016;1/11/2016;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE CON AHORRO;Residencial;19575,76
+2016;1/11/2016;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SIN AHORRO;Residencial;20080,62
+2016;1/11/2016;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9156,47
+2016;1/12/2016;Cordoba;Distribuidor;RESIDENCIAL;Residencial;157176,99
+2016;1/12/2016;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;320798,35
+2016;1/12/2016;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;142753,76
+2016;1/12/2016;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >=10 Y <=20%;Residencial;27311,15
+2016;1/12/2016;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;27437,44
+2016;1/12/2016;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;83404,43
+2016;1/12/2016;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE CON AHORRO;Residencial;24960,27
+2016;1/12/2016;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SIN AHORRO;Residencial;26040,73
+2016;1/12/2016;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9799,28
+2017;1/1/2017;Cordoba;Distribuidor;RESIDENCIAL;Residencial;191270,71
+2017;1/1/2017;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;327977,22
+2017;1/1/2017;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;137332,79
+2017;1/1/2017;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >=10 Y <=20%;Residencial;27136,36
+2017;1/1/2017;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;32957,25
+2017;1/1/2017;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;81802,67
+2017;1/1/2017;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE CON AHORRO;Residencial;29702,32
+2017;1/1/2017;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SIN AHORRO;Residencial;36792,79
+2017;1/1/2017;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;10040,74
+2017;1/2/2017;Cordoba;Distribuidor;RESIDENCIAL;Residencial;157532,93
+2017;1/2/2017;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;294254,25
+2017;1/2/2017;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;128358,51
+2017;1/2/2017;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >=10 Y <=20%;Residencial;20213,56
+2017;1/2/2017;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;26579,59
+2017;1/2/2017;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;68018,39
+2017;1/2/2017;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE CON AHORRO;Residencial;18646,98
+2017;1/2/2017;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;294,57
+2017;1/2/2017;Cordoba;Distribuidor;TARIFA ELECTRODEPENDIENTE EXCEDENTE CON AHORR;Residencial;23,41
+2017;1/2/2017;Cordoba;Distribuidor;TARIFA SOCIAL SIN AHORRO EXCEDENTE <= 450 KWH;Residencial;29101,06
+2017;1/2/2017;Cordoba;Distribuidor;TARIFA SOCIAL SIN AHORRO EXCEDENTE > 450 MWH;Residencial;7494,38
+2017;1/2/2017;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9013,47
+2017;1/3/2017;Cordoba;Distribuidor;RESIDENCIAL;Residencial;152726,31
+2017;1/3/2017;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;304783,65
+2017;1/3/2017;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;146316,44
+2017;1/3/2017;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >=10 Y <=20%;Residencial;18328,53
+2017;1/3/2017;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;22749,74
+2017;1/3/2017;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;72371,41
+2017;1/3/2017;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE CON AHORRO;Residencial;17662,22
+2017;1/3/2017;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;1,18
+2017;1/3/2017;Cordoba;Distribuidor;TARIFA ELECTRODEPENDIENTE EXCEDENTE CON AHORR;Residencial;0,82
+2017;1/3/2017;Cordoba;Distribuidor;TARIFA SOCIAL SIN AHORRO EXCEDENTE <= 450 KWH;Residencial;28546,46
+2017;1/3/2017;Cordoba;Distribuidor;TARIFA SOCIAL SIN AHORRO EXCEDENTE > 450 MWH;Residencial;6469,52
+2017;1/3/2017;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9533,57
+2017;1/4/2017;Cordoba;Distribuidor;RESIDENCIAL;Residencial;123803,64
+2017;1/4/2017;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;268933,17
+2017;1/4/2017;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;130342,43
+2017;1/4/2017;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >=10 Y <=20%;Residencial;18647,59
+2017;1/4/2017;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;23033,71
+2017;1/4/2017;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;68902,51
+2017;1/4/2017;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE CON AHORRO;Residencial;16458,10
+2017;1/4/2017;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;3,98
+2017;1/4/2017;Cordoba;Distribuidor;TARIFA SOCIAL SIN AHORRO EXCEDENTE <= 450 KWH;Residencial;20038,89
+2017;1/4/2017;Cordoba;Distribuidor;TARIFA SOCIAL SIN AHORRO EXCEDENTE > 450 MWH;Residencial;1577,26
+2017;1/4/2017;Cordoba;Distribuidor;TARIFA ELECTROD. EXCEDENTE S/AHORRO > 450MWH;Residencial;2,29
+2017;1/4/2017;Cordoba;Distribuidor;TARIFA ELECTROD. EXCEDENTE S/AHORRO <= 450MWH;Residencial;3,66
+2017;1/4/2017;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8022,86
+2017;1/5/2017;Cordoba;Distribuidor;RESIDENCIAL;Residencial;131253,45
+2017;1/5/2017;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;290020,86
+2017;1/5/2017;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;140583,83
+2017;1/5/2017;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >=10 Y <=20%;Residencial;23330,54
+2017;1/5/2017;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;31200,40
+2017;1/5/2017;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;75030,21
+2017;1/5/2017;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE CON AHORRO;Residencial;27122,59
+2017;1/5/2017;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;8,59
+2017;1/5/2017;Cordoba;Distribuidor;TARIFA SOCIAL SIN AHORRO EXCEDENTE <= 450 KWH;Residencial;21613,40
+2017;1/5/2017;Cordoba;Distribuidor;TARIFA SOCIAL SIN AHORRO EXCEDENTE > 450 MWH;Residencial;1527,70
+2017;1/5/2017;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7696,68
+2017;1/6/2017;Cordoba;Distribuidor;RESIDENCIAL;Residencial;151115,00
+2017;1/6/2017;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;300313,04
+2017;1/6/2017;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;140002,19
+2017;1/6/2017;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >=10 Y <=20%;Residencial;23583,94
+2017;1/6/2017;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;32771,96
+2017;1/6/2017;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;79200,21
+2017;1/6/2017;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE CON AHORRO;Residencial;38375,91
+2017;1/6/2017;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;6,91
+2017;1/6/2017;Cordoba;Distribuidor;TARIFA SOCIAL SIN AHORRO EXCEDENTE <= 450 KWH;Residencial;17806,80
+2017;1/6/2017;Cordoba;Distribuidor;TARIFA SOCIAL SIN AHORRO EXCEDENTE > 450 MWH;Residencial;1863,40
+2017;1/6/2017;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7730,06
+2017;1/7/2017;Cordoba;Distribuidor;RESIDENCIAL;Residencial;152979,23
+2017;1/7/2017;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;307580,18
+2017;1/7/2017;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;143508,04
+2017;1/7/2017;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >=10 Y <=20%;Residencial;24649,68
+2017;1/7/2017;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;38898,27
+2017;1/7/2017;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;73377,88
+2017;1/7/2017;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE CON AHORRO;Residencial;46963,37
+2017;1/7/2017;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;5,20
+2017;1/7/2017;Cordoba;Distribuidor;TARIFA SOCIAL SIN AHORRO EXCEDENTE <= 450 KWH;Residencial;19686,74
+2017;1/7/2017;Cordoba;Distribuidor;TARIFA SOCIAL SIN AHORRO EXCEDENTE > 450 MWH;Residencial;2758,43
+2017;1/7/2017;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7942,43
+2017;1/8/2017;Cordoba;Distribuidor;RESIDENCIAL;Residencial;133527,60
+2017;1/8/2017;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;292993,87
+2017;1/8/2017;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;146346,64
+2017;1/8/2017;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >=10 Y <=20%;Residencial;19819,04
+2017;1/8/2017;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;35355,44
+2017;1/8/2017;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;69712,75
+2017;1/8/2017;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE CON AHORRO;Residencial;40070,10
+2017;1/8/2017;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;0,55
+2017;1/8/2017;Cordoba;Distribuidor;TARIFA SOCIAL SIN AHORRO EXCEDENTE <= 450 KWH;Residencial;16792,16
+2017;1/8/2017;Cordoba;Distribuidor;TARIFA SOCIAL SIN AHORRO EXCEDENTE > 450 MWH;Residencial;2040,81
+2017;1/8/2017;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7983,02
+2017;1/9/2017;Cordoba;Distribuidor;RESIDENCIAL;Residencial;112167,97
+2017;1/9/2017;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;273520,69
+2017;1/9/2017;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;137125,33
+2017;1/9/2017;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >=10 Y <=20%;Residencial;25417,62
+2017;1/9/2017;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;32114,78
+2017;1/9/2017;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;69808,94
+2017;1/9/2017;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE CON AHORRO;Residencial;39493,62
+2017;1/9/2017;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;2,84
+2017;1/9/2017;Cordoba;Distribuidor;TARIFA SOCIAL SIN AHORRO EXCEDENTE <= 450 KWH;Residencial;13884,44
+2017;1/9/2017;Cordoba;Distribuidor;TARIFA SOCIAL SIN AHORRO EXCEDENTE > 450 MWH;Residencial;1439,32
+2017;1/9/2017;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7733,97
+2017;1/10/2017;Cordoba;Distribuidor;RESIDENCIAL;Residencial;108739,38
+2017;1/10/2017;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;280476,54
+2017;1/10/2017;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;141920,89
+2017;1/10/2017;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >=10 Y <=20%;Residencial;25866,60
+2017;1/10/2017;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;29936,18
+2017;1/10/2017;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;68978,94
+2017;1/10/2017;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE CON AHORRO;Residencial;30635,99
+2017;1/10/2017;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;0,43
+2017;1/10/2017;Cordoba;Distribuidor;TARIFA SOCIAL SIN AHORRO EXCEDENTE <= 450 KWH;Residencial;13286,98
+2017;1/10/2017;Cordoba;Distribuidor;TARIFA SOCIAL SIN AHORRO EXCEDENTE > 450 MWH;Residencial;960,82
+2017;1/10/2017;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8598,77
+2017;1/11/2017;Cordoba;Distribuidor;RESIDENCIAL;Residencial;120068,89
+2017;1/11/2017;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;294558,00
+2017;1/11/2017;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;146989,87
+2017;1/11/2017;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >=10 Y <=20%;Residencial;27924,37
+2017;1/11/2017;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;29339,73
+2017;1/11/2017;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;70163,25
+2017;1/11/2017;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE CON AHORRO;Residencial;28839,62
+2017;1/11/2017;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;0,38
+2017;1/11/2017;Cordoba;Distribuidor;TARIFA SOCIAL SIN AHORRO EXCEDENTE <= 450 KWH;Residencial;13027,24
+2017;1/11/2017;Cordoba;Distribuidor;TARIFA SOCIAL SIN AHORRO EXCEDENTE > 450 MWH;Residencial;868,89
+2017;1/11/2017;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9254,75
+2017;1/12/2017;Cordoba;Distribuidor;RESIDENCIAL;Residencial;195305,03
+2017;1/12/2017;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;328979,61
+2017;1/12/2017;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;144845,61
+2017;1/12/2017;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;35819,00
+2017;1/12/2017;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;74599,53
+2017;1/12/2017;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;0,38
+2017;1/12/2017;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH;Residencial;13211,64
+2017;1/12/2017;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SUPERIOR A 150KWH;Residencial;7136,39
+2017;1/12/2017;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH C/P.ESTI;Residencial;24690,69
+2017;1/12/2017;Cordoba;Distribuidor;TARIFA SOCIAL EXC. SUPERIOR 150KWH C/P.ESTIM;Residencial;8812,77
+2017;1/12/2017;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9753,37
+2018;1/1/2018;Cordoba;Distribuidor;RESIDENCIAL;Residencial;196590,47
+2018;1/1/2018;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;329356,43
+2018;1/1/2018;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;137311,68
+2018;1/1/2018;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;34561,96
+2018;1/1/2018;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;76130,52
+2018;1/1/2018;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;0,39
+2018;1/1/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH;Residencial;14695,21
+2018;1/1/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SUPERIOR A 150KWH;Residencial;9581,01
+2018;1/1/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH C/P.ESTI;Residencial;24772,35
+2018;1/1/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXC. SUPERIOR 150KWH C/P.ESTIM;Residencial;9616,48
+2018;1/1/2018;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;10162,97
+2018;1/2/2018;Cordoba;Distribuidor;RESIDENCIAL;Residencial;180884,33
+2018;1/2/2018;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;305682,63
+2018;1/2/2018;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;134235,38
+2018;1/2/2018;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;28574,15
+2018;1/2/2018;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;75613,10
+2018;1/2/2018;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;5,32
+2018;1/2/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH;Residencial;13041,94
+2018;1/2/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SUPERIOR A 150KWH;Residencial;8114,23
+2018;1/2/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH C/P.ESTI;Residencial;21655,87
+2018;1/2/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXC. SUPERIOR 150KWH C/P.ESTIM;Residencial;10589,27
+2018;1/2/2018;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9087,00
+2018;1/3/2018;Cordoba;Distribuidor;RESIDENCIAL;Residencial;162445,35
+2018;1/3/2018;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;311739,32
+2018;1/3/2018;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;146401,06
+2018;1/3/2018;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;30273,30
+2018;1/3/2018;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;75022,77
+2018;1/3/2018;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;0,59
+2018;1/3/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH;Residencial;12089,70
+2018;1/3/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SUPERIOR A 150KWH;Residencial;6709,07
+2018;1/3/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH C/P.ESTI;Residencial;20353,84
+2018;1/3/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXC. SUPERIOR 150KWH C/P.ESTIM;Residencial;10169,16
+2018;1/3/2018;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9105,28
+2018;1/4/2018;Cordoba;Distribuidor;RESIDENCIAL;Residencial;144606,42
+2018;1/4/2018;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;290672,77
+2018;1/4/2018;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;140787,92
+2018;1/4/2018;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;28772,64
+2018;1/4/2018;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;69384,29
+2018;1/4/2018;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;1,22
+2018;1/4/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH;Residencial;10412,78
+2018;1/4/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SUPERIOR A 150KWH;Residencial;5132,38
+2018;1/4/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH C/P.ESTI;Residencial;18274,24
+2018;1/4/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXC. SUPERIOR 150KWH C/P.ESTIM;Residencial;7749,95
+2018;1/4/2018;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8681,65
+2018;1/5/2018;Cordoba;Distribuidor;RESIDENCIAL;Residencial;155908,58
+2018;1/5/2018;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;286939,50
+2018;1/5/2018;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;142751,05
+2018;1/5/2018;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;30491,50
+2018;1/5/2018;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;73948,34
+2018;1/5/2018;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;2,26
+2018;1/5/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH;Residencial;11092,19
+2018;1/5/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SUPERIOR A 150KWH;Residencial;5150,92
+2018;1/5/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH C/P.ESTI;Residencial;19261,55
+2018;1/5/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXC. SUPERIOR 150KWH C/P.ESTIM;Residencial;7357,60
+2018;1/5/2018;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7877,70
+2018;1/6/2018;Cordoba;Distribuidor;RESIDENCIAL;Residencial;207645,29
+2018;1/6/2018;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;319691,31
+2018;1/6/2018;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;140819,44
+2018;1/6/2018;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;40876,84
+2018;1/6/2018;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;77772,11
+2018;1/6/2018;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;4,72
+2018;1/6/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH;Residencial;15588,68
+2018;1/6/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SUPERIOR A 150KWH;Residencial;11664,50
+2018;1/6/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH C/P.ESTI;Residencial;27178,45
+2018;1/6/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXC. SUPERIOR 150KWH C/P.ESTIM;Residencial;6877,07
+2018;1/6/2018;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7397,41
+2018;1/7/2018;Cordoba;Distribuidor;RESIDENCIAL;Residencial;223022,68
+2018;1/7/2018;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;325362,55
+2018;1/7/2018;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;145533,51
+2018;1/7/2018;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;45359,49
+2018;1/7/2018;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;80194,21
+2018;1/7/2018;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;7,54
+2018;1/7/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH;Residencial;16390,70
+2018;1/7/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SUPERIOR A 150KWH;Residencial;15922,75
+2018;1/7/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH C/P.ESTI;Residencial;43374,09
+2018;1/7/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXC. SUPERIOR 150KWH C/P.ESTIM;Residencial;20315,06
+2018;1/7/2018;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7866,90
+2018;1/8/2018;Cordoba;Distribuidor;RESIDENCIAL;Residencial;188799,38
+2018;1/8/2018;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;301133,04
+2018;1/8/2018;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;142794,54
+2018;1/8/2018;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;37730,71
+2018;1/8/2018;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;75759,09
+2018;1/8/2018;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;38,06
+2018;1/8/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH;Residencial;14507,40
+2018;1/8/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SUPERIOR A 150KWH;Residencial;13875,33
+2018;1/8/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH C/P.ESTI;Residencial;27900,56
+2018;1/8/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXC. SUPERIOR 150KWH C/P.ESTIM;Residencial;20665,36
+2018;1/8/2018;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7863,28
+2018;1/9/2018;Cordoba;Distribuidor;RESIDENCIAL;Residencial;133538,41
+2018;1/9/2018;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;253056,67
+2018;1/9/2018;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;133892,30
+2018;1/9/2018;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;28262,68
+2018;1/9/2018;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;63214,53
+2018;1/9/2018;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;73,41
+2018;1/9/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH;Residencial;7198,34
+2018;1/9/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SUPERIOR A 150KWH;Residencial;4575,92
+2018;1/9/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH C/P.ESTI;Residencial;19464,15
+2018;1/9/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXC. SUPERIOR 150KWH C/P.ESTIM;Residencial;16537,04
+2018;1/9/2018;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7884,71
+2018;1/10/2018;Cordoba;Distribuidor;RESIDENCIAL;Residencial;139153,52
+2018;1/10/2018;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;285575,87
+2018;1/10/2018;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;140606,00
+2018;1/10/2018;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;30006,65
+2018;1/10/2018;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;58953,08
+2018;1/10/2018;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;80,91
+2018;1/10/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH;Residencial;7824,97
+2018;1/10/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SUPERIOR A 150KWH;Residencial;3973,58
+2018;1/10/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH C/P.ESTI;Residencial;16264,98
+2018;1/10/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXC. SUPERIOR 150KWH C/P.ESTIM;Residencial;10302,29
+2018;1/10/2018;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8358,10
+2018;1/11/2018;Cordoba;Distribuidor;RESIDENCIAL;Residencial;157926,26
+2018;1/11/2018;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;276112,19
+2018;1/11/2018;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;142218,85
+2018;1/11/2018;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;34056,66
+2018;1/11/2018;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;60244,25
+2018;1/11/2018;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;74,56
+2018;1/11/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH;Residencial;7658,62
+2018;1/11/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SUPERIOR A 150KWH;Residencial;3418,08
+2018;1/11/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH C/P.ESTI;Residencial;17387,95
+2018;1/11/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXC. SUPERIOR 150KWH C/P.ESTIM;Residencial;10238,19
+2018;1/11/2018;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8803,26
+2018;1/12/2018;Cordoba;Distribuidor;RESIDENCIAL;Residencial;179730,20
+2018;1/12/2018;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;310431,36
+2018;1/12/2018;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;137244,81
+2018;1/12/2018;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;40853,55
+2018;1/12/2018;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;72209,25
+2018;1/12/2018;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;90,51
+2018;1/12/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH;Residencial;8860,41
+2018;1/12/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SUPERIOR A 150KWH;Residencial;3975,89
+2018;1/12/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH C/P.ESTI;Residencial;21264,77
+2018;1/12/2018;Cordoba;Distribuidor;TARIFA SOCIAL EXC. SUPERIOR 150KWH C/P.ESTIM;Residencial;12532,33
+2018;1/12/2018;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9073,41
+2019;1/1/2019;Cordoba;Distribuidor;RESIDENCIAL;Residencial;182837,14
+2019;1/1/2019;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;335751,54
+2019;1/1/2019;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;137634,19
+2019;1/1/2019;Cordoba;Distribuidor;RESIDENCIAL PLAN ESTIMULO AHORRO >20%;Residencial;38013,19
+2019;1/1/2019;Cordoba;Distribuidor;TARIFA SOCIAL CONSUMO BASE;Residencial;68214,04
+2019;1/1/2019;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;145,14
+2019;1/1/2019;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH;Residencial;11965,32
+2019;1/1/2019;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE SUPERIOR A 150KWH;Residencial;6634,98
+2019;1/1/2019;Cordoba;Distribuidor;TARIFA SOCIAL EXCEDENTE HASTA 150KWH C/P.ESTI;Residencial;17852,40
+2019;1/1/2019;Cordoba;Distribuidor;TARIFA SOCIAL EXC. SUPERIOR 150KWH C/P.ESTIM;Residencial;6852,51
+2019;1/1/2019;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9257,25
+2019;1/2/2019;Cordoba;Distribuidor;RESIDENCIAL;Residencial;329749,37
+2019;1/2/2019;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;285859,36
+2019;1/2/2019;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;128449,67
+2019;1/2/2019;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;189,07
+2019;1/2/2019;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8433,28
+2019;1/3/2019;Cordoba;Distribuidor;RESIDENCIAL;Residencial;292883,94
+2019;1/3/2019;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;269985,77
+2019;1/3/2019;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;132837,92
+2019;1/3/2019;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;200,73
+2019;1/3/2019;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8052,01
+2019;1/4/2019;Cordoba;Distribuidor;RESIDENCIAL;Residencial;271180,48
+2019;1/4/2019;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;261878,22
+2019;1/4/2019;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;131987,90
+2019;1/4/2019;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;192,03
+2019;1/4/2019;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7332,32
+2019;1/5/2019;Cordoba;Distribuidor;RESIDENCIAL;Residencial;318748,50
+2019;1/5/2019;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;287230,61
+2019;1/5/2019;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;141501,19
+2019;1/5/2019;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;205,05
+2019;1/5/2019;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7311,47
+2019;1/6/2019;Cordoba;Distribuidor;RESIDENCIAL;Residencial;352164,12
+2019;1/6/2019;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;288631,53
+2019;1/6/2019;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;138313,45
+2019;1/6/2019;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;265,27
+2019;1/6/2019;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;6827,09
+2019;1/7/2019;Cordoba;Distribuidor;RESIDENCIAL;Residencial;397405,42
+2019;1/7/2019;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;320722,82
+2019;1/7/2019;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;142735,38
+2019;1/7/2019;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;344,70
+2019;1/7/2019;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7563,37
+2019;1/8/2019;Cordoba;Distribuidor;RESIDENCIAL;Residencial;359622,16
+2019;1/8/2019;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;286600,60
+2019;1/8/2019;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;143431,04
+2019;1/8/2019;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;410,84
+2019;1/8/2019;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7562,66
+2019;1/9/2019;Cordoba;Distribuidor;RESIDENCIAL;Residencial;301675,72
+2019;1/9/2019;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;268664,12
+2019;1/9/2019;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;133595,85
+2019;1/9/2019;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;409,81
+2019;1/9/2019;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7148,44
+2019;1/10/2019;Cordoba;Distribuidor;RESIDENCIAL;Residencial;290977,96
+2019;1/10/2019;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;278089,51
+2019;1/10/2019;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;145893,87
+2019;1/10/2019;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;366,45
+2019;1/10/2019;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7966,66
+2019;1/11/2019;Cordoba;Distribuidor;RESIDENCIAL;Residencial;308864,61
+2019;1/11/2019;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;286173,33
+2019;1/11/2019;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;141242,04
+2019;1/11/2019;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;319,94
+2019;1/11/2019;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9101,78
+2019;1/12/2019;Cordoba;Distribuidor;RESIDENCIAL;Residencial;355864,71
+2019;1/12/2019;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;309013,74
+2019;1/12/2019;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;140134,02
+2019;1/12/2019;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;310,39
+2019;1/12/2019;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9440,93
+2020;1/1/2020;Cordoba;Distribuidor;RESIDENCIAL;Residencial;383775,91
+2020;1/1/2020;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;323506,42
+2020;1/1/2020;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;141941,49
+2020;1/1/2020;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;344,71
+2020;1/1/2020;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9844,85
+2020;1/2/2020;Cordoba;Distribuidor;RESIDENCIAL;Residencial;315462,09
+2020;1/2/2020;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;282966,07
+2020;1/2/2020;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;135253,68
+2020;1/2/2020;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;385,97
+2020;1/2/2020;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9153,56
+2020;1/3/2020;Cordoba;Distribuidor;RESIDENCIAL;Residencial;340435,82
+2020;1/3/2020;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;288923,37
+2020;1/3/2020;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;132467,04
+2020;1/3/2020;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;397,66
+2020;1/3/2020;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9339,38
+2020;1/4/2020;Cordoba;Distribuidor;RESIDENCIAL;Residencial;265201,08
+2020;1/4/2020;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;229882,06
+2020;1/4/2020;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;102973,57
+2020;1/4/2020;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;373,70
+2020;1/4/2020;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7224,85
+2020;1/5/2020;Cordoba;Distribuidor;RESIDENCIAL;Residencial;312973,71
+2020;1/5/2020;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;250310,48
+2020;1/5/2020;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;109720,72
+2020;1/5/2020;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;362,19
+2020;1/5/2020;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7099,19
+2020;1/6/2020;Cordoba;Distribuidor;RESIDENCIAL;Residencial;389474,83
+2020;1/6/2020;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;270565,39
+2020;1/6/2020;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;122251,19
+2020;1/6/2020;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;434,16
+2020;1/6/2020;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7008,56
+2020;1/7/2020;Cordoba;Distribuidor;RESIDENCIAL;Residencial;462365,88
+2020;1/7/2020;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;290413,39
+2020;1/7/2020;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;130414,55
+2020;1/7/2020;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;608,94
+2020;1/7/2020;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7516,52
+2020;1/8/2020;Cordoba;Distribuidor;RESIDENCIAL;Residencial;359093,61
+2020;1/8/2020;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;258806,50
+2020;1/8/2020;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;129340,70
+2020;1/8/2020;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;714,67
+2020;1/8/2020;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7441,23
+2020;1/9/2020;Cordoba;Distribuidor;RESIDENCIAL;Residencial;310311,87
+2020;1/9/2020;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;254691,67
+2020;1/9/2020;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;130683,75
+2020;1/9/2020;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;661,93
+2020;1/9/2020;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7469,69
+2020;1/10/2020;Cordoba;Distribuidor;RESIDENCIAL;Residencial;298191,76
+2020;1/10/2020;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;256449,42
+2020;1/10/2020;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;138263,87
+2020;1/10/2020;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;535,35
+2020;1/10/2020;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8033,09
+2020;1/11/2020;Cordoba;Distribuidor;RESIDENCIAL;Residencial;311166,52
+2020;1/11/2020;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;264986,02
+2020;1/11/2020;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;143940,54
+2020;1/11/2020;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;426,91
+2020;1/11/2020;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8614,14
+2020;1/12/2020;Cordoba;Distribuidor;RESIDENCIAL;Residencial;366598,26
+2020;1/12/2020;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;292925,10
+2020;1/12/2020;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;135220,13
+2020;1/12/2020;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;399,43
+2020;1/12/2020;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9217,44
+2021;1/1/2021;Cordoba;Distribuidor;RESIDENCIAL;Residencial;365705,28
+2021;1/1/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;294363,49
+2021;1/1/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;139057,72
+2021;1/1/2021;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;439,52
+2021;1/1/2021;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9275,64
+2021;1/2/2021;Cordoba;Distribuidor;RESIDENCIAL;Residencial;298667,15
+2021;1/2/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;262558,28
+2021;1/2/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;122268,00
+2021;1/2/2021;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;438,92
+2021;1/2/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH S Y E;Industrial/Comercial Grande;2903,13
+2021;1/2/2021;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8315,35
+2021;1/3/2021;Cordoba;Distribuidor;RESIDENCIAL;Residencial;323385,02
+2021;1/3/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;291895,41
+2021;1/3/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;144679,76
+2021;1/3/2021;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;417,19
+2021;1/3/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH S Y E;Industrial/Comercial Grande;3377,85
+2021;1/3/2021;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9098,12
+2021;1/4/2021;Cordoba;Distribuidor;RESIDENCIAL;Residencial;277708,66
+2021;1/4/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;266317,16
+2021;1/4/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;134837,43
+2021;1/4/2021;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;390,56
+2021;1/4/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH S Y E;Industrial/Comercial Grande;2897,84
+2021;1/4/2021;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7982,73
+2021;1/5/2021;Cordoba;Distribuidor;RESIDENCIAL;Residencial;340878,65
+2021;1/5/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;287122,08
+2021;1/5/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;138116,88
+2021;1/5/2021;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;417,95
+2021;1/5/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH S Y E;Industrial/Comercial Grande;2423,93
+2021;1/5/2021;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7672,82
+2021;1/6/2021;Cordoba;Distribuidor;RESIDENCIAL;Residencial;405891,40
+2021;1/6/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;299287,79
+2021;1/6/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;140913,48
+2021;1/6/2021;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;516,68
+2021;1/6/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH S Y E;Industrial/Comercial Grande;2656,72
+2021;1/6/2021;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7409,25
+2021;1/7/2021;Cordoba;Distribuidor;RESIDENCIAL;Residencial;413039,21
+2021;1/7/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;304641,31
+2021;1/7/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;138737,34
+2021;1/7/2021;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;669,44
+2021;1/7/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH S Y E;Industrial/Comercial Grande;2522,38
+2021;1/7/2021;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7722,21
+2021;1/8/2021;Cordoba;Distribuidor;RESIDENCIAL;Residencial;370532,70
+2021;1/8/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;289138,70
+2021;1/8/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;141118,53
+2021;1/8/2021;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;721,08
+2021;1/8/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH S Y E;Industrial/Comercial Grande;2724,70
+2021;1/8/2021;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7752,74
+2021;1/9/2021;Cordoba;Distribuidor;RESIDENCIAL;Residencial;292407,63
+2021;1/9/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;271382,83
+2021;1/9/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;133902,72
+2021;1/9/2021;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;667,24
+2021;1/9/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH S Y E;Industrial/Comercial Grande;2327,03
+2021;1/9/2021;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7689,40
+2021;1/10/2021;Cordoba;Distribuidor;RESIDENCIAL;Residencial;309366,83
+2021;1/10/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;287336,99
+2021;1/10/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;135325,96
+2021;1/10/2021;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;509,48
+2021;1/10/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH S Y E;Industrial/Comercial Grande;2884,49
+2021;1/10/2021;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8453,71
+2021;1/11/2021;Cordoba;Distribuidor;RESIDENCIAL;Residencial;312700,49
+2021;1/11/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;293459,46
+2021;1/11/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;142513,58
+2021;1/11/2021;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;424,97
+2021;1/11/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH S Y E;Industrial/Comercial Grande;3402,48
+2021;1/11/2021;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8941,12
+2021;1/12/2021;Cordoba;Distribuidor;RESIDENCIAL;Residencial;413775,45
+2021;1/12/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;345584,70
+2021;1/12/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;138474,61
+2021;1/12/2021;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;429,45
+2021;1/12/2021;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH S Y E;Industrial/Comercial Grande;4061,76
+2021;1/12/2021;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9544,74
+2022;1/1/2022;Cordoba;Distribuidor;RESIDENCIAL;Residencial;463508,91
+2022;1/1/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;351773,32
+2022;1/1/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;134057,84
+2022;1/1/2022;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;506,52
+2022;1/1/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH S Y E;Industrial/Comercial Grande;3350,20
+2022;1/1/2022;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;10238,13
+2022;1/2/2022;Cordoba;Distribuidor;RESIDENCIAL;Residencial;329416,37
+2022;1/2/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;282306,29
+2022;1/2/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;130247,41
+2022;1/2/2022;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;551,97
+2022;1/2/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH S Y E;Industrial/Comercial Grande;3396,32
+2022;1/2/2022;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9162,62
+2022;1/3/2022;Cordoba;Distribuidor;RESIDENCIAL;Residencial;318592,01
+2022;1/3/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;297691,75
+2022;1/3/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;146725,93
+2022;1/3/2022;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;497,85
+2022;1/3/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH S Y E;Industrial/Comercial Grande;3564,06
+2022;1/3/2022;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9252,55
+2022;1/4/2022;Cordoba;Distribuidor;RESIDENCIAL;Residencial;285262,86
+2022;1/4/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;281041,67
+2022;1/4/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;139174,57
+2022;1/4/2022;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;424,84
+2022;1/4/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH S Y E;Industrial/Comercial Grande;2924,54
+2022;1/4/2022;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8216,59
+2022;1/5/2022;Cordoba;Distribuidor;RESIDENCIAL;Residencial;365531,10
+2022;1/5/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;318431,17
+2022;1/5/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;142455,96
+2022;1/5/2022;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;440,89
+2022;1/5/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH S Y E;Industrial/Comercial Grande;3566,37
+2022;1/5/2022;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8117,64
+2022;1/6/2022;Cordoba;Distribuidor;RESIDENCIAL;Residencial;442239,04
+2022;1/6/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;337550,55
+2022;1/6/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;144571,23
+2022;1/6/2022;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;570,11
+2022;1/6/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH S Y E;Industrial/Comercial Grande;3846,79
+2022;1/6/2022;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;7902,03
+2022;1/7/2022;Cordoba;Distribuidor;RESIDENCIAL;Residencial;425095,40
+2022;1/7/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;327413,27
+2022;1/7/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;141119,28
+2022;1/7/2022;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;759,51
+2022;1/7/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH S Y E;Industrial/Comercial Grande;3287,39
+2022;1/7/2022;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8129,83
+2022;1/8/2022;Cordoba;Distribuidor;RESIDENCIAL;Residencial;372604,38
+2022;1/8/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;310822,84
+2022;1/8/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;143277,36
+2022;1/8/2022;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;827,81
+2022;1/8/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH S Y E;Industrial/Comercial Grande;3606,32
+2022;1/8/2022;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8561,96
+2022;1/9/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;292909,83
+2022;1/9/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;139236,88
+2022;1/9/2022;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;727,07
+2022;1/9/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH S Y E;Industrial/Comercial Grande;2984,71
+2022;1/9/2022;Cordoba;Distribuidor;RESIDENCIAL NIVEL 1;Residencial;9336,07
+2022;1/9/2022;Cordoba;Distribuidor;RESIDENCIAL NIVEL 2;Residencial;300213,72
+2022;1/9/2022;Cordoba;Distribuidor;RESIDENCIAL NIVEL 3 BASE;Residencial;1088,25
+2022;1/9/2022;Cordoba;Distribuidor;RESIDENCIAL NIVEL 3 EXCEDENTE;Residencial;849,66
+2022;1/9/2022;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8186,86
+2022;1/10/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;285934,83
+2022;1/10/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;142607,68
+2022;1/10/2022;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;584,12
+2022;1/10/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH S Y E;Industrial/Comercial Grande;3402,93
+2022;1/10/2022;Cordoba;Distribuidor;RESIDENCIAL NIVEL 1;Residencial;43496,92
+2022;1/10/2022;Cordoba;Distribuidor;RESIDENCIAL NIVEL 2;Residencial;253168,38
+2022;1/10/2022;Cordoba;Distribuidor;RESIDENCIAL NIVEL 3 BASE;Residencial;13767,49
+2022;1/10/2022;Cordoba;Distribuidor;RESIDENCIAL NIVEL 3 EXCEDENTE;Residencial;1705,75
+2022;1/10/2022;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;8553,74
+2022;1/11/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;303929,52
+2022;1/11/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;143465,97
+2022;1/11/2022;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;511,35
+2022;1/11/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH S Y E;Industrial/Comercial Grande;4209,89
+2022;1/11/2022;Cordoba;Distribuidor;RESIDENCIAL NIVEL 1;Residencial;116662,97
+2022;1/11/2022;Cordoba;Distribuidor;RESIDENCIAL NIVEL 2;Residencial;219113,15
+2022;1/11/2022;Cordoba;Distribuidor;RESIDENCIAL NIVEL 3 BASE;Residencial;52431,78
+2022;1/11/2022;Cordoba;Distribuidor;RESIDENCIAL NIVEL 3 EXCEDENTE;Residencial;2801,48
+2022;1/11/2022;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;9879,10
+2022;1/12/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL <300KWH;Comercial;326093,02
+2022;1/12/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH;Industrial/Comercial Grande;151802,14
+2022;1/12/2022;Cordoba;Distribuidor;TARIFA BASE ELECTRODEPENDIENTES;Residencial;541,57
+2022;1/12/2022;Cordoba;Distribuidor;TARIFA USUARIO NO RESIDENCIAL >=300KWH S Y E;Industrial/Comercial Grande;4673,66
+2022;1/12/2022;Cordoba;Distribuidor;RESIDENCIAL NIVEL 1;Residencial;140128,89
+2022;1/12/2022;Cordoba;Distribuidor;RESIDENCIAL NIVEL 2;Residencial;284461,71
+2022;1/12/2022;Cordoba;Distribuidor;RESIDENCIAL NIVEL 3 BASE;Residencial;61901,87
+2022;1/12/2022;Cordoba;Distribuidor;RESIDENCIAL NIVEL 3 EXCEDENTE;Residencial;5889,18
+2022;1/12/2022;Gran Usuario MEM;Gran Usuario;GUMES/GUPAS;Industrial/Comercial Grande;10231,12
